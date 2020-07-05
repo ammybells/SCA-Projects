@@ -1,2 +1,2 @@
-# SCA-Projects
-This contains SheCodesAfrica tasks and projects
+# Beginner Projects
+This contains practice beginner projects.
